@@ -4,7 +4,7 @@ This repository record my learning journey.
 
 # Major courses
 
-| Course                                        | Educator                    | Professor                     |Certificate     | Code Repository |
+| Course                                        | Educator                    | Professor                     |Certificate     | Code            |
 | :---                                          |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Machine Learning                              | Stanford & DeepLearning.AI  | Andrew Ng                     |                |                 |
 | Deep Learning                                 | DeepLearning.AI             | Andrew Ng                     |                |                 |
