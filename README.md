@@ -1,16 +1,29 @@
-### Hi there 👋
+Hi, I am Tran, and I don't know what to do with my life. Meanwhile, I am learning computer science and artificial intelligence because I think it may enable me to create something useful for the community. With that said, I believe that becoming a doctor (not the medical type) and becoming a professional programmer afterward is the way to make my existence valuable and meaningful in some sense.  
 
-<!--
-**DeCuuTranVo/DeCuuTranVo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository record my learning journey. 
 
-Here are some ideas to get you started:
+# Major courses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Course                                        | Educator                    | Professor                     |Certificate     | Code Repository |
+| :---                                          |    :----:                   |         :---:                 |  :---:         |            ---: |
+| Machine Learning                              | Stanford & DeepLearning.AI  | Andrew Ng                     |                |                 |
+| Deep Learning                                 | DeepLearning.AI             | Andrew Ng                     |                |                 |
+| Machine Learning Engineering                  | DeepLearning.AI             | Andrew Ng                     |                |                 |
+| AI for Medicine                               | Princeton University        | Pranav Rajpurkar              |                |                 |
+| Object-Oriented Programming                   | DeepLearning.AI             | Owen Astrachan & Leo Porter   |                |                 |  
+| Computer Science: Programming with a Purpose  | Princeton University        | Robert Sedgewick              |                |                 |
+| Algorithms I & II                             | Princeton University        | Robert Sedgewick              |                |                 |
+
+# Minor courses
+(Updating)
+
+
+# Technology courses
+(Updating)
+
+# Coding certificate:
+Problem Solving (Basic)
+SQL (Basic)
+
+# Projects
+(Updating)
