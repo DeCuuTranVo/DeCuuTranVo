@@ -6,7 +6,7 @@ This repository record my learning journey.
 
 | Course                                        | Educator                    | Professor                     |Certificate     | Code            |
 | :---                                          |    :----:                   |         :---:                 |  :---:         |            ---: |
-| Machine Learning                              | Stanford & DeepLearning.AI  | Andrew Ng                     |                |                 |
+| Machine Learning                              | Stanford & DeepLearning.AI  | Andrew Ng                     |  [Click](https://www.coursera.org/account/accomplishments/specialization/certificate/QWATSCWEZND8)              |                 |
 | Deep Learning                                 | DeepLearning.AI             | Andrew Ng                     |                |                 |
 | Machine Learning Engineering                  | DeepLearning.AI             | Andrew Ng                     |                |                 |
 | AI for Medicine                               | Princeton University        | Pranav Rajpurkar              |                |                 |
