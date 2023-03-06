@@ -18,12 +18,11 @@ This repository record my learning journey.
 (Updating)
 
 
-# Technology courses
-(Updating)
-
-# Coding certificate:
-Problem Solving (Basic)
-SQL (Basic)
+# Coding certificates:
+| Name                                          | Issuer                      |       Certificate     | Code            |
+| :---                                          |    :----:                   |         :---:         |            ---: |
+| Problem Solving (Basic)                       | HackerRank                  |                       |                 |
+| SQL (Basic)                                   | HackerRank                  |                       |                 |
 
 # Projects
 (Updating)
