@@ -15,8 +15,15 @@ This repository record my learning journey.
 | Algorithms I & II                             | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Algorithms-Princeton-Coursera)               | 96.70% |
 
 # Minor courses
-(Updating)
-
+| Course                                             | Educator                    | Professor                     |Certificate     | Code            | Grade |
+| :---                                               |    :----:                   |         :---:                 |  :---:         |           :---: | ---:  |
+| Linux and Bash for Data Engineering                | Duke University             | Noah Gift                     |[View](https://www.coursera.org/account/accomplishments/certificate/3G8UQD4YZWNY)                |                 | 100%   |
+| Introduction to Programming with MATLAB            | Vanderbilt University       | J. Michael Fitzpatrick        |[View](https://www.coursera.org/account/accomplishments/certificate/ZXPKJMQ7DW9U)                |                 | 98.80% |
+| Python for Everybody                               | University of Michigan      | Charles Severance             |                |[View](https://github.com/DeCuuTranVo/Python-for-Everybody)                 |  |
+| DeepLearning.AI TensorFlow Developer               | DeepLearning.AI             | Laurence Moroney  |[View](https://www.coursera.org/account/accomplishments/specialization/certificate/EJEU8HKZN2WX) |                 | 98.97% |
+| TensorFlow: Data and Deployment                    | DeepLearning.AI             | Laurence Moroney  |[View](https://www.coursera.org/account/accomplishments/specialization/certificate/4A2RZN9ZHCWL) |                 | 96.96% |
+| Relational Database Design                         | UC Boulder                  | Di Wu             |[View](https://www.coursera.org/account/accomplishments/certificate/SYZXXA45VQNG) |                 | 100.00% |
+| The Structured Query Language                      | UC Boulder                  | Alan Paradise     |[View](https://www.coursera.org/account/accomplishments/certificate/RLQCZCHKES7M) |                 | 100.00% |
 
 # Coding certificates:
 | Name                                          | Issuer                      |       Certificate     | Code            |
@@ -40,3 +47,4 @@ This repository record my learning journey.
 | Software Development Lifecycle                     | University of Minesota      | Praveen Mittal                |                |                 |
 | Django for Everybody                               | University of Michigan      | Charles Severance             |                |                 |
 | Introduction to Artificial Intelligence            | Udacity                     | Peter Norvig                  |                |                 |
+| Linear Algebra                                     | MIT                         | Gilbert Strang                |                |                 |
