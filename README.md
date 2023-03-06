@@ -21,8 +21,8 @@ This repository record my learning journey.
 # Coding certificates:
 | Name                                          | Issuer                      |       Certificate     | Code            |
 | :---                                          |    :----:                   |         :---:         |            ---: |
-| Problem Solving (Basic)                       | HackerRank                  |                       |                 |
-| SQL (Basic)                                   | HackerRank                  |                       |                 |
+| Problem Solving (Basic)                       | HackerRank                  |[View](https://www.hackerrank.com/certificates/9610c8c4c897)|                 |
+| SQL (Basic)                                   | HackerRank                  |[View](https://www.hackerrank.com/certificates/41c1c938c92d)|                 |
 
 # Projects
 (Updating)
