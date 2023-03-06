@@ -4,15 +4,15 @@ This repository record my learning journey.
 
 # Major courses
 
-| Course                                        | Educator                    | Professor                     |Certificate     | Code            |
-| :---                                          |    :----:                   |         :---:                 |  :---:         |            ---: |
-| Machine Learning                              | Stanford & DeepLearning.AI  | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/QWATSCWEZND8)              |                 |
-| Deep Learning                                 | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/BX5PVVHUJJKW)              |                 |
-| Machine Learning Engineering                  | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/539JG4T2RW6E)              |                 |
-| AI for Medicine                               | Princeton University        | Pranav Rajpurkar              |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/5YTXEMQSTBYR)              |                 |
-| Object-Oriented Programming                   | DeepLearning.AI             | Owen Astrachan & Leo Porter   |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/EFGQH7E4YMCW)              |                 |  
-| Computer Science: Programming with a Purpose  | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Computer-science-Programming-with-a-purpose-Princeton-Coursera)               |
-| Algorithms I & II                             | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Algorithms-Princeton-Coursera)               |
+| Course                                        | Educator                    | Professor                     |Certificate     | Code            | Grade |
+| :---                                          |    :----:                   |         :---:                 |  :---:         |           :---: | ---:  | 
+| Machine Learning                              | Stanford & DeepLearning.AI  | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/QWATSCWEZND8)              |                 |  100.00%|
+| Deep Learning                                 | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/BX5PVVHUJJKW)              |                 |  96.69% |
+| Machine Learning Engineering                  | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/539JG4T2RW6E)              |                 |  99.50% |
+| AI for Medicine                               | Princeton University        | Pranav Rajpurkar              |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/5YTXEMQSTBYR)              |                 |  98.11% |
+| Object-Oriented Programming                   | DeepLearning.AI             | Owen Astrachan & Leo Porter   |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/EFGQH7E4YMCW)              |                 | 94.90%  | 
+| Computer Science: Programming with a Purpose  | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Computer-science-Programming-with-a-purpose-Princeton-Coursera)               |  96.43%| 
+| Algorithms I & II                             | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Algorithms-Princeton-Coursera)               | 96.70% |
 
 # Minor courses
 (Updating)
