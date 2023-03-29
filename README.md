@@ -4,7 +4,7 @@ This repository records my learning journey.
 
 # Major courses
 
-| Course                                        | Educator                    | Professor                     |Certificate     | Code            | Grade |
+| Course                                        | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
 | :---                                          |    :----:                   |         :---:                 |  :---:         |           :---: | ---:  | 
 | Machine Learning                              | Stanford & DeepLearning.AI  | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/QWATSCWEZND8)              |                 |  100.00%|
 | Deep Learning                                 | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/BX5PVVHUJJKW)              |                 |  96.69% |
@@ -15,7 +15,7 @@ This repository records my learning journey.
 | Algorithms I & II                             | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Algorithms-Princeton-Coursera)               | 96.70% |
 
 # Minor courses
-| Course                                             | Educator                    | Professor                     |Certificate     | Code            | Grade |
+| Course                                             | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |           :---: | ---:  |
 | Linux and Bash for Data Engineering                | Duke University             | Noah Gift                     |[View](https://www.coursera.org/account/accomplishments/certificate/3G8UQD4YZWNY)                |                 | 100%   |
 | Introduction to Programming with MATLAB            | Vanderbilt University       | J. Michael Fitzpatrick        |[View](https://www.coursera.org/account/accomplishments/certificate/ZXPKJMQ7DW9U)                |                 | 98.80% |
@@ -35,7 +35,7 @@ This repository records my learning journey.
 (Updating)
 
 # Future courses (Courses I want to take)
-| Course                                             | Educator                    | Professor                     |Certificate     | Code            |
+| Course                                             | Course Provider                    | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Database for Data Scientist                        | UC Boulder                  | Di Wu & Alan Paradise         |                |                 |
 | Data Science Foundations: Statistical Inference    | UC Boulder                  | Anne Dougherty                |                |                 |
