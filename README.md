@@ -3,13 +3,17 @@ Hi, I am Tran, and I don't know what to do with my life. Meanwhile, I am learnin
 This repository records my learning journey. 
 
 # Major courses
-
+## Artificial Intelligence
 | Course                                        | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
 | :---                                          |    :----:                   |         :---:                 |  :---:         |           :---: | ---:  | 
 | Machine Learning                              | Stanford University & DeepLearning.AI  | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/QWATSCWEZND8)              |                 |  100.00%|
 | Deep Learning                                 | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/BX5PVVHUJJKW)              |                 |  96.69% |
 | Machine Learning Engineering                  | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/539JG4T2RW6E)              |                 |  99.50% |
 | AI for Medicine                               | Princeton University        | Pranav Rajpurkar              |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/5YTXEMQSTBYR)              |                 |  98.11% |
+
+## Computer Science
+| Course                                        | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
+| :---                                          |    :----:                   |         :---:                 |  :---:         |           :---: | ---:  | 
 | Object-Oriented Programming                   | DeepLearning.AI             | Owen Astrachan & Leo Porter   |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/EFGQH7E4YMCW)              |                 | 94.90%  | 
 | Computer Science: Programming with a Purpose  | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Computer-science-Programming-with-a-purpose-Princeton-Coursera)               |  96.43%| 
 | Algorithms I & II                             | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Algorithms-Princeton-Coursera)               | 96.70% |
