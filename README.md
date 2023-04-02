@@ -47,3 +47,5 @@ This repository records my learning journey.
 | Django for Everybody*                               | University of Michigan      | Charles Severance             |                |                 |
 | CS50: Introduction to Artificial Intelligence with Python*            | Havard University                     | David Malan & Brain Yu                  |                |                 |
 | Linear Algebra                                     | MIT                         | Gilbert Strang                |                |                 |
+
+*:In progress
