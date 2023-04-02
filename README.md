@@ -9,7 +9,7 @@ This repository records my learning journey.
 | Machine Learning                              | Stanford University & DeepLearning.AI  | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/QWATSCWEZND8)              |                 |  100.00%|
 | Deep Learning                                 | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/BX5PVVHUJJKW)              |                 |  96.69% |
 | Machine Learning Engineering                  | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/539JG4T2RW6E)              |                 |  99.50% |
-| AI for Medicine                               | Princeton University        | Pranav Rajpurkar              |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/5YTXEMQSTBYR)              |                 |  98.11% |
+| AI for Medicine                               | DeepLearning.AI             | Pranav Rajpurkar              |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/5YTXEMQSTBYR)              |                 |  98.11% |
 
 ## Computer Science
 | Course                                        | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
