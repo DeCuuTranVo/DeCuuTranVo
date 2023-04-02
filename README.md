@@ -37,14 +37,13 @@ This repository records my learning journey.
 # Future courses (Courses I want to take)
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
-| Database for Data Scientist                        | UC Boulder                  | Di Wu & Alan Paradise         |                |                 |
-| Data Science Foundations: Statistical Inference    | UC Boulder                  | Anne Dougherty                |                |                 |
+| Data Science Foundations: Statistical Inference*    | UC Boulder                  | Anne Dougherty                |                |                 |
 | Probabilistic Graphical Models                     | Stanford University         | Daphne Koller                 |                |                 |
 | Software Design and Architecture                   | University of Alberta       | Kenny Wong                    |                |                 |
 | Statistical Learning                               | Stanford University         | Trevor Hastie                 |                |                 |
 | Algorithm Design and Analysis                      | Stanford University         | Tim Roughgarden               |                |                 |
 | Reinforcement Learning                             | University of Alberta       | Adam & Martha White           |                |                 |
 | Software Development Lifecycle                     | University of Minesota      | Praveen Mittal                |                |                 |
-| Django for Everybody                               | University of Michigan      | Charles Severance             |                |                 |
-| Introduction to Artificial Intelligence            | Udacity                     | Peter Norvig                  |                |                 |
+| Django for Everybody*                               | University of Michigan      | Charles Severance             |                |                 |
+| CS50: Introduction to Artificial Intelligence with Python*            | Havard University                     | David Malan & Brain Yu                  |                |                 |
 | Linear Algebra                                     | MIT                         | Gilbert Strang                |                |                 |
