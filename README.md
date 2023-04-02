@@ -13,6 +13,7 @@ This repository records my learning journey.
 | Object-Oriented Programming                   | DeepLearning.AI             | Owen Astrachan & Leo Porter   |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/EFGQH7E4YMCW)              |                 | 94.90%  | 
 | Computer Science: Programming with a Purpose  | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Computer-science-Programming-with-a-purpose-Princeton-Coursera)               |  96.43%| 
 | Algorithms I & II                             | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Algorithms-Princeton-Coursera)               | 96.70% |
+|Databases for Data Scientists Specialization   | University of Colorado Boulder| Alan Paradise & Di Wu       | [View](https://www.coursera.org/account/accomplishments/specialization/certificate/HS4TSY3TFH36)               |                | 100%        | 
 
 # Minor courses
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
@@ -22,8 +23,7 @@ This repository records my learning journey.
 | Python for Everybody                               | University of Michigan      | Charles Severance             |                |[View](https://github.com/DeCuuTranVo/Python-for-Everybody)                 |  |
 | DeepLearning.AI TensorFlow Developer               | DeepLearning.AI             | Laurence Moroney  |[View](https://www.coursera.org/account/accomplishments/specialization/certificate/EJEU8HKZN2WX) |                 | 98.97% |
 | TensorFlow: Data and Deployment                    | DeepLearning.AI             | Laurence Moroney  |[View](https://www.coursera.org/account/accomplishments/specialization/certificate/4A2RZN9ZHCWL) |                 | 96.96% |
-| Relational Database Design                         | UC Boulder                  | Di Wu             |[View](https://www.coursera.org/account/accomplishments/certificate/SYZXXA45VQNG) |                 | 100.00% |
-| The Structured Query Language                      | UC Boulder                  | Alan Paradise     |[View](https://www.coursera.org/account/accomplishments/certificate/RLQCZCHKES7M) |                 | 100.00% |
+
 
 # Coding certificates:
 | Name                                          | Issuer                      |       Certificate     | Code            |
