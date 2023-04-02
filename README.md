@@ -13,7 +13,7 @@ This repository records my learning journey.
 | Object-Oriented Programming                   | DeepLearning.AI             | Owen Astrachan & Leo Porter   |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/EFGQH7E4YMCW)              |                 | 94.90%  | 
 | Computer Science: Programming with a Purpose  | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Computer-science-Programming-with-a-purpose-Princeton-Coursera)               |  96.43%| 
 | Algorithms I & II                             | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Algorithms-Princeton-Coursera)               | 96.70% |
-|Databases for Data Scientists Specialization   | University of Colorado Boulder| Alan Paradise & Di Wu       | [View](https://www.coursera.org/account/accomplishments/specialization/certificate/HS4TSY3TFH36)               |                | 100%        | 
+|Databases for Data Scientists Specialization   | University of Colorado Boulder| Alan Paradise & Di Wu       | [View](https://www.coursera.org/account/accomplishments/specialization/certificate/HS4TSY3TFH36)               |                | 100.00%        | 
 
 # Minor courses
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
