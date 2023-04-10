@@ -44,14 +44,14 @@ This repository records my learning journey.
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Data Science Foundations: Statistical Inference   | UC Boulder                  | Anne Dougherty                |                |                 |
 | Django for Everybody                              | University of Michigan      | Charles Severance             |                |                 |
-| CS50: Introduction to Artificial Intelligence with Python| Havard University    | David Malan & Brain Yu        |                |                 |
+| CS50's Introduction to Artificial Intelligence with Python| Havard University    | David Malan & Brain Yu        |                |                 |
 
 ## Stage 2
 | Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Linear Algebra                                     | MIT                         | Gilbert Strang                |                |                 |
 | Reinforcement Learning                             | University of Alberta       | Adam & Martha White           |                |                 |
-| CS50: CS50's Web Programming with Python and JavaScript| Havard University       | David Malan & Brain Yu        |                |                 |
+| CS50's Web Programming with Python and JavaScript| Havard University       | David Malan & Brain Yu        |                |                 |
 
 ## Stage 3
 | Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
