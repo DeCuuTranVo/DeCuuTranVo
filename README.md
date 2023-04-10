@@ -38,19 +38,32 @@ This repository records my learning journey.
 # Projects
 (Updating)
 
-# Future courses (Courses I want to take)
+# Future MOOCs (Courses I want to take)
+## Stage 1
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
-| Data Science Foundations: Statistical Inference*    | UC Boulder                  | Anne Dougherty                |                |                 |
-| Probabilistic Graphical Models                     | Stanford University         | Daphne Koller                 |                |                 |
-| Software Design and Architecture                   | University of Alberta       | Kenny Wong                    |                |                 |
-| Statistical Learning                               | Stanford University         | Trevor Hastie                 |                |                 |
-| Algorithm Design and Analysis                      | Stanford University         | Tim Roughgarden               |                |                 |
-| Reinforcement Learning                             | University of Alberta       | Adam & Martha White           |                |                 |
-| Software Development Lifecycle                     | University of Minesota      | Praveen Mittal                |                |                 |
-| Django for Everybody*                               | University of Michigan      | Charles Severance             |                |                 |
-| CS50: Introduction to Artificial Intelligence with Python*            | Havard University                     | David Malan & Brain Yu                  |                |                 |
+| Data Science Foundations: Statistical Inference   | UC Boulder                  | Anne Dougherty                |                |                 |
+| Django for Everybody                              | University of Michigan      | Charles Severance             |                |                 |
+| CS50: Introduction to Artificial Intelligence with Python| Havard University    | David Malan & Brain Yu        |                |                 |
+
+## Stage 2
+| Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
+| :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Linear Algebra                                     | MIT                         | Gilbert Strang                |                |                 |
+| Reinforcement Learning                             | University of Alberta       | Adam & Martha White           |                |                 |
+| CS50: CS50's Web Programming with Python and JavaScript| Havard University       | David Malan & Brain Yu        |                |                 |
+
+## Stage 3
+| Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
+| :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
+| Statistical Learning                               | Stanford University         | Trevor Hastie                 |                |                 |
+| Software Design and Architecture                   | University of Alberta       | Kenny Wong                    |                |                 |
 | Generative Adversarial Networks                    | DeepLearning.AI             | Sharon Zhou                   |                |                 |
 
-*:In progress
+## Stage 4
+| Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
+| :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
+| Multivariable Calculus                             | MIT                         | Denis Auroux                  |                |                 |
+| Probabilistic Graphical Models                     | Stanford University         | Daphne Koller                 |                |                 |
+| Algorithm Design and Analysis                      | Stanford University         | Tim Roughgarden               |                |                 |
+| Software Development Lifecycle                     | University of Minesota      | Praveen Mittal                |                |                 |
