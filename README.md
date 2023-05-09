@@ -22,6 +22,7 @@ This repository records my learning journey.
 # Minor courses
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |           :---: | ---:  |
+| Django for Everybody                               | University of Michigan      | Charles Severance             |[view](https://www.coursera.org/account/accomplishments/specialization/certificate/WUCKW2RU52AZ)             |                 |
 | Linux and Bash for Data Engineering                | Duke University             | Noah Gift                     |[View](https://www.coursera.org/account/accomplishments/certificate/3G8UQD4YZWNY)                |                 | 100%   |
 | Introduction to Programming with MATLAB            | Vanderbilt University       | J. Michael Fitzpatrick        |[View](https://www.coursera.org/account/accomplishments/certificate/ZXPKJMQ7DW9U)                |                 | 98.80% |
 | Python for Everybody                               | University of Michigan      | Charles Severance             |                |[View](https://github.com/DeCuuTranVo/Python-for-Everybody)                 |  |
@@ -43,7 +44,7 @@ This repository records my learning journey.
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Data Science Foundations: Statistical Inference   | UC Boulder                  | Anne Dougherty                |                |                 |
-| Django for Everybody                              | University of Michigan      | Charles Severance             |                |                 |
+
 | CS50's Introduction to Artificial Intelligence with Python| Havard University    | David Malan & Brain Yu        |                |                 |
 
 ## Stage 2
