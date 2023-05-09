@@ -10,6 +10,7 @@ This repository records my learning journey.
 | Deep Learning                                 | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/BX5PVVHUJJKW)              |                 |  96.69% |
 | Machine Learning Engineering                  | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/539JG4T2RW6E)              |                 |  99.50% |
 | AI for Medicine                               | DeepLearning.AI             | Pranav Rajpurkar              |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/5YTXEMQSTBYR)              |                 |  98.11% |
+| CS50's Introduction to Artificial Intelligence with Python| Havard University    | David Malan & Brain Yu        |                |                 |
 
 ## Computer Science
 | Course                                        | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
@@ -22,7 +23,7 @@ This repository records my learning journey.
 # Minor courses
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |           :---: | ---:  |
-| Django for Everybody                               | University of Michigan      | Charles Severance             |[view](https://www.coursera.org/account/accomplishments/specialization/certificate/WUCKW2RU52AZ)             |                 |
+| Django for Everybody                               | University of Michigan      | Charles Severance             |[view](https://www.coursera.org/account/accomplishments/specialization/certificate/WUCKW2RU52AZ)             |             | 100.00%   |
 | Linux and Bash for Data Engineering                | Duke University             | Noah Gift                     |[View](https://www.coursera.org/account/accomplishments/certificate/3G8UQD4YZWNY)                |                 | 100%   |
 | Introduction to Programming with MATLAB            | Vanderbilt University       | J. Michael Fitzpatrick        |[View](https://www.coursera.org/account/accomplishments/certificate/ZXPKJMQ7DW9U)                |                 | 98.80% |
 | Python for Everybody                               | University of Michigan      | Charles Severance             |                |[View](https://github.com/DeCuuTranVo/Python-for-Everybody)                 |  |
@@ -44,27 +45,28 @@ This repository records my learning journey.
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Data Science Foundations: Statistical Inference   | UC Boulder                  | Anne Dougherty                |                |                 |
+| Generative Adversarial Networks                    | DeepLearning.AI             | Sharon Zhou                   |                |                 |
+| CS50's Web Programming with Python and JavaScript| Havard University       | David Malan & Brain Yu        |                |                 |
 
-| CS50's Introduction to Artificial Intelligence with Python| Havard University    | David Malan & Brain Yu        |                |                 |
 
 ## Stage 2
 | Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Linear Algebra                                     | MIT                         | Gilbert Strang                |                |                 |
 | Reinforcement Learning                             | University of Alberta       | Adam & Martha White           |                |                 |
-| CS50's Web Programming with Python and JavaScript| Havard University       | David Malan & Brain Yu        |                |                 |
+| Software Design and Architecture                   | University of Alberta       | Kenny Wong                    |                |                 |
+
 
 ## Stage 3
 | Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Statistical Learning                               | Stanford University         | Trevor Hastie                 |                |                 |
-| Software Design and Architecture                   | University of Alberta       | Kenny Wong                    |                |                 |
-| Generative Adversarial Networks                    | DeepLearning.AI             | Sharon Zhou                   |                |                 |
+| Algorithm Design and Analysis                      | Stanford University         | Tim Roughgarden               |                |                 |
+
 
 ## Stage 4
 | Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Multivariable Calculus                             | MIT                         | Denis Auroux                  |                |                 |
 | Probabilistic Graphical Models                     | Stanford University         | Daphne Koller                 |                |                 |
-| Algorithm Design and Analysis                      | Stanford University         | Tim Roughgarden               |                |                 |
 | Software Development Lifecycle                     | University of Minesota      | Praveen Mittal                |                |                 |
