@@ -10,7 +10,7 @@ This repository records my learning journey.
 | Deep Learning                                 | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/BX5PVVHUJJKW)              |                 |  96.69% |
 | Machine Learning Engineering                  | DeepLearning.AI             | Andrew Ng                     |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/539JG4T2RW6E)              |                 |  99.50% |
 | AI for Medicine                               | DeepLearning.AI             | Pranav Rajpurkar              |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/5YTXEMQSTBYR)              |                 |  98.11% |
-| CS50's Introduction to Artificial Intelligence with Python| Havard University    | David Malan & Brain Yu        |                |                 |
+| CS50's Introduction to Artificial Intelligence with Python| Havard University    | David Malan & Brain Yu        | [View](https://certificates.cs50.io/3c6cb778-1079-4163-ad71-cf07cec2286e.pdf?size=letter)                |  [View](https://github.com/DeCuuTranVo/CS50AI-Introduction-to-Artificial-Intelligence/tree/main)               |
 
 ## Computer Science
 | Course                                        | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
