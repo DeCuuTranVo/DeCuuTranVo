@@ -1,4 +1,4 @@
-Hi, I am Tran, and I don't know what to do with my life. Meanwhile, I am learning computer science and artificial intelligence because I think it may enable me to create something useful for the community. With that said, I believe that becoming a doctor (not the medical type) and becoming a professional programmer afterward is the way to make my existence valuable and meaningful in some sense.  
+Hi, I am Tran, and I don't know what to do with my life. Meanwhile, I am learning computer science and artificial intelligence because I think it may enable me to create something useful for the community. With that said, I believe that becoming a professional programmer afterward is the way to make my existence valuable and meaningful in some sense.  
 
 This repository records my learning journey. 
 
