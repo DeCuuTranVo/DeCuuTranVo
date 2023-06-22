@@ -41,6 +41,17 @@ This repository records my learning journey.
 (Updating)
 
 # Future MOOCs (Courses I want to take)
+## Stage 0
+| Course                                             | Course Provider                    | Professor                     |Certificate     | Code            |
+| :---                                               |    :----:                          |         :---:                 |  :---:         |            ---: |
+| Software Design and Architecture                   | University of Alberta              | Kenny Wong                    |                |                 |
+| Algorithm Design and Analysis                      | Stanford University                | Tim Roughgarden               |                |                 |
+| Spring, Spring Boot, Hibernate                     | Udemy                              | Chad Darby                    |                |                 |
+| Data Engineer Specialization                       | IBM                                |                               |                |                 |
+
+https://www.udemy.com/course/spring-hibernate-tutorial/?fbclid=IwAR22XyA_FgEs_WJ83Y8eKZokM0v1orLxevEg14JfvDcBNk6lT0T2tJ9VqhU
+
+
 ## Stage 1
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
@@ -54,14 +65,13 @@ This repository records my learning journey.
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Linear Algebra                                     | MIT                         | Gilbert Strang                |                |                 |
 | Reinforcement Learning                             | University of Alberta       | Adam & Martha White           |                |                 |
-| Software Design and Architecture                   | University of Alberta       | Kenny Wong                    |                |                 |
 
 
 ## Stage 3
 | Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Statistical Learning                               | Stanford University         | Trevor Hastie                 |                |                 |
-| Algorithm Design and Analysis                      | Stanford University         | Tim Roughgarden               |                |                 |
+
 
 
 ## Stage 4
