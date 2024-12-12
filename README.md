@@ -18,7 +18,7 @@ This repository records my learning journey.
 | Object-Oriented Programming                   | DeepLearning.AI             | Owen Astrachan & Leo Porter   |  [View](https://www.coursera.org/account/accomplishments/specialization/certificate/EFGQH7E4YMCW)              |                 | 94.90%  | 
 | Computer Science: Programming with a Purpose  | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Computer-science-Programming-with-a-purpose-Princeton-Coursera)               |  96.43%| 
 | Algorithms I & II                             | Princeton University        | Robert Sedgewick              |                |  [View](https://github.com/DeCuuTranVo/Algorithms-Princeton-Coursera)               | 96.70% |
-|Databases for Data Scientists   | University of Colorado Boulder| Alan Paradise & Di Wu       | [View](https://www.coursera.org/account/accomplishments/specialization/certificate/HS4TSY3TFH36)               |                | 100.00%        | 
+| Databases for Data Scientists   | University of Colorado Boulder| Alan Paradise & Di Wu       | [View](https://www.coursera.org/account/accomplishments/specialization/certificate/HS4TSY3TFH36)               |                | 100.00%        | 
 
 # Minor courses
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            | Grade |
@@ -41,42 +41,66 @@ This repository records my learning journey.
 (Updating)
 
 # Future MOOCs (Courses I want to take)
-## Stage 0
+## Data Science & Engineering
+### Stage 0
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                          |         :---:                 |  :---:         |            ---: |
-| Software Design and Architecture                   | University of Alberta              | Kenny Wong                    |                |                 |
-| Algorithm Design and Analysis                      | Stanford University                | Tim Roughgarden               |                |                 |
-| Spring, Spring Boot, Hibernate                     | Udemy                              | Chad Darby                    |                |                 |
-| Data Engineer Specialization                       | IBM                                |                               |                |                 |
+| Data Engineer Professional Certificate             | IBM                                |                               |                |                 |
 
-https://www.udemy.com/course/spring-hibernate-tutorial/?fbclid=IwAR22XyA_FgEs_WJ83Y8eKZokM0v1orLxevEg14JfvDcBNk6lT0T2tJ9VqhU
-
-
-## Stage 1
+### Stage 1
 | Course                                             | Course Provider                    | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Data Science Foundations: Statistical Inference   | UC Boulder                  | Anne Dougherty                |                |                 |
 | Generative Adversarial Networks                    | DeepLearning.AI             | Sharon Zhou                   |                |                 |
-| CS50's Web Programming with Python and JavaScript| Havard University       | David Malan & Brain Yu        |                |                 |
 
-
-## Stage 2
+### Stage 2
 | Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Linear Algebra                                     | MIT                         | Gilbert Strang                |                |                 |
 | Reinforcement Learning                             | University of Alberta       | Adam & Martha White           |                |                 |
 
 
-## Stage 3
+### Stage 3
 | Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Statistical Learning                               | Stanford University         | Trevor Hastie                 |                |                 |
 
-
-
-## Stage 4
+### Stage 4
 | Course                                             | Course Provider             | Professor                     |Certificate     | Code            |
 | :---                                               |    :----:                   |         :---:                 |  :---:         |            ---: |
 | Multivariable Calculus                             | MIT                         | Denis Auroux                  |                |                 |
 | Probabilistic Graphical Models                     | Stanford University         | Daphne Koller                 |                |                 |
-| Software Development Lifecycle                     | University of Minesota      | Praveen Mittal                |                |                 |
+
+## Computer Science and Software Engineering
+### Stage 1
+| Course                                                                 | Course Provider                    | Professor                     |Certificate     | Code            |
+| :---                                                                   |    :----:                          |         :---:                 |  :---:         |            ---: |
+| Software Development Lifecycle                                         | University of Minesota             | Praveen Mittal                |                |                 |
+| Front-End Developer Professional Certificate                           | Meta                               |                               |                |                 |
+| The Complete PL/SQL Bootcamp : "Beginner to Advanced PL/SQL"           | Udemy                              | Database Masters Training     |                |                 |
+
+### Stage 2
+| Course                                                                 | Course Provider                    | Professor                     |Certificate     | Code            |
+| Software Design and Architecture                                       | University of Alberta              | Kenny Wong                    |                |                 |
+| Master the Coding Interview: Data Structures + Algorithms              | Udemy                              | Andrei Neagoie                |                |                 |
+
+### Stage 3
+| Course                                                                 | Course Provider                    | Professor                     |Certificate     | Code            |
+| Algorithm Design and Analysis                                          | Stanford University                | Tim Roughgarden               |                |                 |
+| Oracle SQL Performance Tuning Masterclass (2024)                       | Udemy                              | Database Masters Training     |                |                 |
+| Build a Modern Computer from First Principles: From Nand to Tetris     | The Hebrew University of Jerusalem | Shimon Schocken               |                |                 |
+
+### Stage 4
+| Course                                                                 | Course Provider                    | Professor                     |Certificate     | Code            |
+| Build a Modern Computer from First Principles: Nand to Tetris Part II  | The Hebrew University of Jerusalem | Shimon Schocken               |                |                 |
+| Genomic Data Science Specialization                                    | Johns Hopkins University           | Mihaela Pertea                |                |                 |
+| Bioinformatics Specialization                                          | University of California San Diego | Pavel Pevzner                 |                |                 |
+
+
+
+
+
+
+
+
+ 
