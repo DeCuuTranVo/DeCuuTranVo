@@ -1,5 +1,8 @@
 Hi, I am Tran, and I don't know what to do with my life. Meanwhile, I am learning computer science and artificial intelligence because I think it may enable me to create something useful for the community. With that said, I believe that becoming a professional programmer afterward is the way to make my existence valuable and meaningful in some sense.  
 
+First update: I have worked at a local medical device distributor for 1.5 years as a .NET Software Engineer. And I am grateful for this period.
+Second update: I am working for an international clinical research unit as a data programmer. And I am excited about my new journey. 
+
 This repository records my learning journey. 
 
 # Major courses
@@ -81,17 +84,20 @@ This repository records my learning journey.
 
 ### Stage 2
 | Course                                                                 | Course Provider                    | Professor                     |Certificate     | Code            |
+| :---                                                                   |    :----:                          |         :---:                 |  :---:         |            ---: |
 | Software Design and Architecture                                       | University of Alberta              | Kenny Wong                    |                |                 |
 | Master the Coding Interview: Data Structures + Algorithms              | Udemy                              | Andrei Neagoie                |                |                 |
 
 ### Stage 3
 | Course                                                                 | Course Provider                    | Professor                     |Certificate     | Code            |
+| :---                                                                   |    :----:                          |         :---:                 |  :---:         |            ---: |
 | Algorithm Design and Analysis                                          | Stanford University                | Tim Roughgarden               |                |                 |
 | Oracle SQL Performance Tuning Masterclass (2024)                       | Udemy                              | Database Masters Training     |                |                 |
 | Build a Modern Computer from First Principles: From Nand to Tetris     | The Hebrew University of Jerusalem | Shimon Schocken               |                |                 |
 
 ### Stage 4
 | Course                                                                 | Course Provider                    | Professor                     |Certificate     | Code            |
+| :---                                                                   |    :----:                          |         :---:                 |  :---:         |            ---: |
 | Build a Modern Computer from First Principles: Nand to Tetris Part II  | The Hebrew University of Jerusalem | Shimon Schocken               |                |                 |
 | Genomic Data Science Specialization                                    | Johns Hopkins University           | Mihaela Pertea                |                |                 |
 | Bioinformatics Specialization                                          | University of California San Diego | Pavel Pevzner                 |                |                 |
