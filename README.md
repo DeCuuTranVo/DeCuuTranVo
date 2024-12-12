@@ -87,18 +87,19 @@ This repository records my learning journey.
 | :---                                                                   |    :----:                          |         :---:                 |  :---:         |            ---: |
 | Software Design and Architecture                                       | University of Alberta              | Kenny Wong                    |                |                 |
 | Master the Coding Interview: Data Structures + Algorithms              | Udemy                              | Andrei Neagoie                |                |                 |
+| Build a Modern Computer from First Principles: From Nand to Tetris     | The Hebrew University of Jerusalem | Shimon Schocken               |                |                 |
 
 ### Stage 3
 | Course                                                                 | Course Provider                    | Professor                     |Certificate     | Code            |
 | :---                                                                   |    :----:                          |         :---:                 |  :---:         |            ---: |
 | Algorithm Design and Analysis                                          | Stanford University                | Tim Roughgarden               |                |                 |
 | Oracle SQL Performance Tuning Masterclass (2024)                       | Udemy                              | Database Masters Training     |                |                 |
-| Build a Modern Computer from First Principles: From Nand to Tetris     | The Hebrew University of Jerusalem | Shimon Schocken               |                |                 |
+| Build a Modern Computer from First Principles: Nand to Tetris Part II  | The Hebrew University of Jerusalem | Shimon Schocken               |                |                 |
+
 
 ### Stage 4
 | Course                                                                 | Course Provider                    | Professor                     |Certificate     | Code            |
 | :---                                                                   |    :----:                          |         :---:                 |  :---:         |            ---: |
-| Build a Modern Computer from First Principles: Nand to Tetris Part II  | The Hebrew University of Jerusalem | Shimon Schocken               |                |                 |
 | Genomic Data Science Specialization                                    | Johns Hopkins University           | Mihaela Pertea                |                |                 |
 | Bioinformatics Specialization                                          | University of California San Diego | Pavel Pevzner                 |                |                 |
 | DevOps and Software Engineering Professional Certificate               | IBM                                |                               |                |                 |
